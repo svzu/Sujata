@@ -27,6 +27,7 @@ public class StudentDetailsPrint {
           list[1]=s2;
           System.out.println(list[0].getName()+ " "+list[0].getAge());
        //sujata
+        //Rai
           
           
     }
